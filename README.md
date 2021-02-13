@@ -3,13 +3,8 @@
 <script type="text/javascript" color="0,0,255" opacity='0.7' zIndex="-2" count="200" src="//cdn.jsdelivr.net/gh/longda33/canvas/canvas-nest.min.js"></script>
 
 樱花JS
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title></title>
-    </head>
     <body>
+    
     </body>
-</html>
+    
 <script src="https://cdn.jsdelivr.net/gh/longda33/canvas/yinghua.js"></script>
